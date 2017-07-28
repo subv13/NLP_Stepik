@@ -1,0 +1,221 @@
+1
+ЁЖ	NOUN,anim,masc sing,nomn
+ЕЖА	NOUN,anim,masc sing,gent
+ЕЖУ	NOUN,anim,masc sing,datv
+ЕЖА	NOUN,anim,masc sing,accs
+ЕЖОМ	NOUN,anim,masc sing,ablt
+ЕЖЕ	NOUN,anim,masc sing,loct
+ЕЖИ	NOUN,anim,masc plur,nomn
+ЕЖЕЙ	NOUN,anim,masc plur,gent
+ЕЖАМ	NOUN,anim,masc plur,datv
+ЕЖЕЙ	NOUN,anim,masc plur,accs
+ЕЖАМИ	NOUN,anim,masc plur,ablt
+ЕЖАХ	NOUN,anim,masc plur,loct
+
+2
+ЁЖ	NOUN,inan,masc sing,nomn
+ЕЖА	NOUN,inan,masc sing,gent
+ЕЖУ	NOUN,inan,masc sing,datv
+ЁЖ	NOUN,inan,masc sing,accs
+ЕЖОМ	NOUN,inan,masc sing,ablt
+ЕЖЕ	NOUN,inan,masc sing,loct
+ЕЖИ	NOUN,inan,masc plur,nomn
+ЕЖЕЙ	NOUN,inan,masc plur,gent
+ЕЖАМ	NOUN,inan,masc plur,datv
+ЕЖИ	NOUN,inan,masc plur,accs
+ЕЖАМИ	NOUN,inan,masc plur,ablt
+ЕЖАХ	NOUN,inan,masc plur,loct
+
+3
+ЁЖИК	NOUN,anim,masc sing,nomn
+ЁЖИКА	NOUN,anim,masc sing,gent
+ЁЖИКУ	NOUN,anim,masc sing,datv
+ЁЖИКА	NOUN,anim,masc sing,accs
+ЁЖИКОМ	NOUN,anim,masc sing,ablt
+ЁЖИКЕ	NOUN,anim,masc sing,loct
+ЁЖИКИ	NOUN,anim,masc plur,nomn
+ЁЖИКОВ	NOUN,anim,masc plur,gent
+ЁЖИКАМ	NOUN,anim,masc plur,datv
+ЁЖИКОВ	NOUN,anim,masc plur,accs
+ЁЖИКАМИ	NOUN,anim,masc plur,ablt
+ЁЖИКАХ	NOUN,anim,masc plur,loct
+
+4
+ЁЖИКОМ	ADVB 
+
+5
+ЁЖИСТЫЙ	ADJF,Qual masc,sing,nomn
+ЁЖИСТОГО	ADJF,Qual masc,sing,gent
+ЁЖИСТОМУ	ADJF,Qual masc,sing,datv
+ЁЖИСТОГО	ADJF,Qual anim,masc,sing,accs
+ЁЖИСТЫЙ	ADJF,Qual inan,masc,sing,accs
+ЁЖИСТЫМ	ADJF,Qual masc,sing,ablt
+ЁЖИСТОМ	ADJF,Qual masc,sing,loct
+ЁЖИСТАЯ	ADJF,Qual femn,sing,nomn
+ЁЖИСТОЙ	ADJF,Qual femn,sing,gent
+ЁЖИСТОЙ	ADJF,Qual femn,sing,datv
+ЁЖИСТУЮ	ADJF,Qual femn,sing,accs
+ЁЖИСТОЙ	ADJF,Qual femn,sing,ablt
+ЁЖИСТОЮ	ADJF,Qual femn,sing,ablt,V-oy
+ЁЖИСТОЙ	ADJF,Qual femn,sing,loct
+ЁЖИСТОЕ	ADJF,Qual neut,sing,nomn
+ЁЖИСТОГО	ADJF,Qual neut,sing,gent
+ЁЖИСТОМУ	ADJF,Qual neut,sing,datv
+ЁЖИСТОЕ	ADJF,Qual neut,sing,accs
+ЁЖИСТЫМ	ADJF,Qual neut,sing,ablt
+ЁЖИСТОМ	ADJF,Qual neut,sing,loct
+ЁЖИСТЫЕ	ADJF,Qual plur,nomn
+ЁЖИСТЫХ	ADJF,Qual plur,gent
+ЁЖИСТЫМ	ADJF,Qual plur,datv
+ЁЖИСТЫХ	ADJF,Qual anim,plur,accs
+ЁЖИСТЫЕ	ADJF,Qual inan,plur,accs
+ЁЖИСТЫМИ	ADJF,Qual plur,ablt
+ЁЖИСТЫХ	ADJF,Qual plur,loct
+
+6
+ЁЖИСТ	ADJS,Qual masc,sing
+ЁЖИСТА	ADJS,Qual femn,sing
+ЁЖИСТО	ADJS,Qual neut,sing
+ЁЖИСТЫ	ADJS,Qual plur
+
+7
+ЁЖИСТЕЕ	COMP,Qual 
+ЁЖИСТЕЙ	COMP,Qual V-ej
+ПОЁЖИСТЕЕ	COMP,Qual Cmp2
+ПОЁЖИСТЕЙ	COMP,Qual Cmp2,V-ej
+
+8
+ЁЖУ	VERB,impf,tran sing,1per,pres,indc
+ЁЖИМ	VERB,impf,tran plur,1per,pres,indc
+ЁЖИШЬ	VERB,impf,tran sing,2per,pres,indc
+ЁЖИТЕ	VERB,impf,tran plur,2per,pres,indc
+ЁЖИТ	VERB,impf,tran sing,3per,pres,indc
+ЁЖАТ	VERB,impf,tran plur,3per,pres,indc
+ЁЖИЛ	VERB,impf,tran masc,sing,past,indc
+ЁЖИЛА	VERB,impf,tran femn,sing,past,indc
+ЁЖИЛО	VERB,impf,tran neut,sing,past,indc
+ЁЖИЛИ	VERB,impf,tran plur,past,indc
+ЁЖЬ	VERB,impf,tran sing,impr,excl
+ЁЖЬТЕ	VERB,impf,tran plur,impr,excl
+
+9
+ЁЖИТЬ	INFN,impf,tran 
+
+10
+ЁЖИМЫЙ	PRTF,impf,tran,pres,pssv masc,sing,nomn
+ЁЖИМОГО	PRTF,impf,tran,pres,pssv masc,sing,gent
+ЁЖИМОМУ	PRTF,impf,tran,pres,pssv masc,sing,datv
+ЁЖИМОГО	PRTF,impf,tran,pres,pssv anim,masc,sing,accs
+ЁЖИМЫЙ	PRTF,impf,tran,pres,pssv inan,masc,sing,accs
+ЁЖИМЫМ	PRTF,impf,tran,pres,pssv masc,sing,ablt
+ЁЖИМОМ	PRTF,impf,tran,pres,pssv masc,sing,loct
+ЁЖИМАЯ	PRTF,impf,tran,pres,pssv femn,sing,nomn
+ЁЖИМОЙ	PRTF,impf,tran,pres,pssv femn,sing,gent
+ЁЖИМОЙ	PRTF,impf,tran,pres,pssv femn,sing,datv
+ЁЖИМУЮ	PRTF,impf,tran,pres,pssv femn,sing,accs
+ЁЖИМОЙ	PRTF,impf,tran,pres,pssv femn,sing,ablt
+ЁЖИМОЮ	PRTF,impf,tran,pres,pssv femn,sing,ablt,V-oy
+ЁЖИМОЙ	PRTF,impf,tran,pres,pssv femn,sing,loct
+ЁЖИМОЕ	PRTF,impf,tran,pres,pssv neut,sing,nomn
+ЁЖИМОГО	PRTF,impf,tran,pres,pssv neut,sing,gent
+ЁЖИМОМУ	PRTF,impf,tran,pres,pssv neut,sing,datv
+ЁЖИМОЕ	PRTF,impf,tran,pres,pssv neut,sing,accs
+ЁЖИМЫМ	PRTF,impf,tran,pres,pssv neut,sing,ablt
+ЁЖИМОМ	PRTF,impf,tran,pres,pssv neut,sing,loct
+ЁЖИМЫЕ	PRTF,impf,tran,pres,pssv plur,nomn
+ЁЖИМЫХ	PRTF,impf,tran,pres,pssv plur,gent
+ЁЖИМЫМ	PRTF,impf,tran,pres,pssv plur,datv
+ЁЖИМЫХ	PRTF,impf,tran,pres,pssv anim,plur,accs
+ЁЖИМЫЕ	PRTF,impf,tran,pres,pssv inan,plur,accs
+ЁЖИМЫМИ	PRTF,impf,tran,pres,pssv plur,ablt
+ЁЖИМЫХ	PRTF,impf,tran,pres,pssv plur,loct
+
+11
+ЁЖИМ	PRTS,impf,pres,pssv masc,sing
+ЁЖИМА	PRTS,impf,pres,pssv femn,sing
+ЁЖИМО	PRTS,impf,pres,pssv neut,sing
+ЁЖИМЫ	PRTS,impf,pres,pssv plur
+
+12
+ЁЖА	GRND,impf,tran pres
+ЁЖИВ	GRND,impf,tran past
+ЁЖИВШИ	GRND,impf,tran past,V-sh
+
+13
+ЁЖУСЬ	VERB,impf,intr sing,1per,pres,indc
+ЁЖИМСЯ	VERB,impf,intr plur,1per,pres,indc
+ЁЖИШЬСЯ	VERB,impf,intr sing,2per,pres,indc
+ЁЖИТЕСЬ	VERB,impf,intr plur,2per,pres,indc
+ЁЖИТСЯ	VERB,impf,intr sing,3per,pres,indc
+ЁЖАТСЯ	VERB,impf,intr plur,3per,pres,indc
+ЁЖИЛСЯ	VERB,impf,intr masc,sing,past,indc
+ЁЖИЛАСЬ	VERB,impf,intr femn,sing,past,indc
+ЁЖИЛОСЬ	VERB,impf,intr neut,sing,past,indc
+ЁЖИЛИСЬ	VERB,impf,intr plur,past,indc
+ЁЖЬСЯ	VERB,impf,intr sing,impr,excl
+ЁЖЬТЕСЬ	VERB,impf,intr plur,impr,excl
+
+14
+ЁЖИТЬСЯ	INFN,impf,intr 
+
+15
+ЁЖАЩИЙСЯ	PRTF,impf,intr,pres,actv masc,sing,nomn
+ЁЖАЩЕГОСЯ	PRTF,impf,intr,pres,actv masc,sing,gent
+ЁЖАЩЕМУСЯ	PRTF,impf,intr,pres,actv masc,sing,datv
+ЁЖАЩЕГОСЯ	PRTF,impf,intr,pres,actv anim,masc,sing,accs
+ЁЖАЩИЙСЯ	PRTF,impf,intr,pres,actv inan,masc,sing,accs
+ЁЖАЩИМСЯ	PRTF,impf,intr,pres,actv masc,sing,ablt
+ЁЖАЩЕМСЯ	PRTF,impf,intr,pres,actv masc,sing,loct
+ЁЖАЩАЯСЯ	PRTF,impf,intr,pres,actv femn,sing,nomn
+ЁЖАЩЕЙСЯ	PRTF,impf,intr,pres,actv femn,sing,gent
+ЁЖАЩЕЙСЯ	PRTF,impf,intr,pres,actv femn,sing,datv
+ЁЖАЩУЮСЯ	PRTF,impf,intr,pres,actv femn,sing,accs
+ЁЖАЩЕЙСЯ	PRTF,impf,intr,pres,actv femn,sing,ablt
+ЁЖАЩЕЮСЯ	PRTF,impf,intr,pres,actv femn,sing,ablt,V-ey
+ЁЖАЩЕЙСЯ	PRTF,impf,intr,pres,actv femn,sing,loct
+ЁЖАЩЕЕСЯ	PRTF,impf,intr,pres,actv neut,sing,nomn
+ЁЖАЩЕГОСЯ	PRTF,impf,intr,pres,actv neut,sing,gent
+ЁЖАЩЕМУСЯ	PRTF,impf,intr,pres,actv neut,sing,datv
+ЁЖАЩЕЕСЯ	PRTF,impf,intr,pres,actv neut,sing,accs
+ЁЖАЩИМСЯ	PRTF,impf,intr,pres,actv neut,sing,ablt
+ЁЖАЩЕМСЯ	PRTF,impf,intr,pres,actv neut,sing,loct
+ЁЖАЩИЕСЯ	PRTF,impf,intr,pres,actv plur,nomn
+ЁЖАЩИХСЯ	PRTF,impf,intr,pres,actv plur,gent
+ЁЖАЩИМСЯ	PRTF,impf,intr,pres,actv plur,datv
+ЁЖАЩИХСЯ	PRTF,impf,intr,pres,actv anim,plur,accs
+ЁЖАЩИЕСЯ	PRTF,impf,intr,pres,actv inan,plur,accs
+ЁЖАЩИМИСЯ	PRTF,impf,intr,pres,actv plur,ablt
+ЁЖАЩИХСЯ	PRTF,impf,intr,pres,actv plur,loct
+
+16
+ЁЖИВШИЙСЯ	PRTF,impf,intr,past,actv masc,sing,nomn
+ЁЖИВШЕГОСЯ	PRTF,impf,intr,past,actv masc,sing,gent
+ЁЖИВШЕМУСЯ	PRTF,impf,intr,past,actv masc,sing,datv
+ЁЖИВШЕГОСЯ	PRTF,impf,intr,past,actv anim,masc,sing,accs
+ЁЖИВШИЙСЯ	PRTF,impf,intr,past,actv inan,masc,sing,accs
+ЁЖИВШИМСЯ	PRTF,impf,intr,past,actv masc,sing,ablt
+ЁЖИВШЕМСЯ	PRTF,impf,intr,past,actv masc,sing,loct
+ЁЖИВШАЯСЯ	PRTF,impf,intr,past,actv femn,sing,nomn
+ЁЖИВШЕЙСЯ	PRTF,impf,intr,past,actv femn,sing,gent
+ЁЖИВШЕЙСЯ	PRTF,impf,intr,past,actv femn,sing,datv
+ЁЖИВШУЮСЯ	PRTF,impf,intr,past,actv femn,sing,accs
+ЁЖИВШЕЙСЯ	PRTF,impf,intr,past,actv femn,sing,ablt
+ЁЖИВШЕЮСЯ	PRTF,impf,intr,past,actv femn,sing,ablt,V-ey
+ЁЖИВШЕЙСЯ	PRTF,impf,intr,past,actv femn,sing,loct
+ЁЖИВШЕЕСЯ	PRTF,impf,intr,past,actv neut,sing,nomn
+ЁЖИВШЕГОСЯ	PRTF,impf,intr,past,actv neut,sing,gent
+ЁЖИВШЕМУСЯ	PRTF,impf,intr,past,actv neut,sing,datv
+ЁЖИВШЕЕСЯ	PRTF,impf,intr,past,actv neut,sing,accs
+ЁЖИВШИМСЯ	PRTF,impf,intr,past,actv neut,sing,ablt
+ЁЖИВШЕМСЯ	PRTF,impf,intr,past,actv neut,sing,loct
+ЁЖИВШИЕСЯ	PRTF,impf,intr,past,actv plur,nomn
+ЁЖИВШИХСЯ	PRTF,impf,intr,past,actv plur,gent
+ЁЖИВШИМСЯ	PRTF,impf,intr,past,actv plur,datv
+ЁЖИВШИХСЯ	PRTF,impf,intr,past,actv anim,plur,accs
+ЁЖИВШИЕСЯ	PRTF,impf,intr,past,actv inan,plur,accs
+ЁЖИВШИМИСЯ	PRTF,impf,intr,past,actv plur,ablt
+ЁЖИВШИХСЯ	PRTF,impf,intr,past,actv plur,loct
+
+17
+ЁЖАСЬ	GRND,impf,intr pres
+ЁЖИВШИСЬ	GRND,impf,intr past,V-sh
